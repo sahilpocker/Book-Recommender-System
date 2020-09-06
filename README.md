@@ -14,7 +14,7 @@ Our task is to predict the rating for a user-book pair, to train a model that’
 
 ### Jupyter Notebook
 
-Link to the local notebook can be found [here](https://github.com/sahilpocker/Book-Recommender-System/blob/master/book-recommender-system.ipynb "book-recommender-system")
+The local notebook can be accessed [here](https://github.com/sahilpocker/Book-Recommender-System/blob/master/book-recommender-system.ipynb "book-recommender-system")
 
 
 ### Training And Validation Performance
