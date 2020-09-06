@@ -16,4 +16,4 @@ ___
 
 The model performed reasonably well with 5 epochs, without overfitting much.
 
-![Trainind-Test-Curve](https://imgur.com/a/wHN1mxI)
+![Trainind-Test-Curve](https://i.imgur.com/qptDlEC.png)
