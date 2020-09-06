@@ -1,12 +1,12 @@
 # Book Recommender System Using Keras
 
-This is a Book Recommendation system using keras, made using the [goodbooks-10k](https://www.kaggle.com/zygmunt/goodbooks-10k "goodbooks-10k") dataset
+This is a Book Recommendation system using [keras](https://keras.io "keras"), made using the [goodbooks-10k](https://www.kaggle.com/zygmunt/goodbooks-10k "goodbooks-10k") dataset
 
-We will use a technique called collaborative filtering using the keras framework, even-though this doesnt qualify as a deep-learning problem.
+We will use a technique called [collaborative filtering](https://developers.google.com/machine-learning/recommendation/collaborative/basics "collaborative_filtering") using the keras framework, even though this doesn't qualify as a deep-learning problem.
 
 The Dataset has been saved in the local directory.
 
-Our task is to predict the rating for a user/book pair, with the idea that if we had a model that’s good at this task then we could predict how a user would rate books they haven’t read yet and recommend books with the highest predicted rating.
+Our task is to predict the rating for a user-book pair, to train a model that’s good at predicting how a user would rate books they haven’t read yet. The recommendation is based on the highest predicted ratings.
 
 ### Data cleaning and tranformation
 * Duplicate entries have been removed 
